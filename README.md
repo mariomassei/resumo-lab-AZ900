@@ -6,3 +6,20 @@ criação de conta, informação sobre funcionalidades.
 modelos de nuvem
 tipos de custos 
 analise de custos
+
+#lab az900 pt2
+alta disponibilidade
+escalabilidade
+elasticidade
+confiabilidade
+previsibilidade
+segurança
+governancia
+gerenciabilidae
+
+redundancia de armazenamentto
+-lrs - redeundancia local
+-grs - redundancia geografica
+-zrs - redundancia por zona
+-gzrs - redundancia zona geografica
+
