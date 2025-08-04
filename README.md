@@ -23,3 +23,7 @@ redundancia de armazenamentto
 -zrs - redundancia por zona
 -gzrs - redundancia zona geografica
 
+Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+feito teste em laboratorio
+criação de maquina virtual
+
