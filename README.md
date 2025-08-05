@@ -27,3 +27,9 @@ Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 feito teste em laboratorio
 criação de maquina virtual
 
+LAB ARMAZENAMENTO AZ
+criação storage acont
+transferencias/migração de dados
+AZcopy/ storage explorer
+
+
