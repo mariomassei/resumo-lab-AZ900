@@ -32,4 +32,15 @@ criação storage acont
 transferencias/migração de dados
 AZcopy/ storage explorer
 
+GERENCIAMENTO DE CUSTO
+fatores de cuasto
+  - tipo de recurso
+  - consumo
+  - manutenção
+  - area geografica
+  - trafego de rede
+  - assinatura
+calculadora Azure - estimativa de valor
+TCO - calculadorea de custo total de propriedade
+
 
