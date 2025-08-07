@@ -49,4 +49,8 @@ aplicação de politica em grupo de recurso
 impacto de politica sobre o usuario
 atuação da politica fora do grupo de recurso
 
+  ARC - ferramenta de gerenciamento multi-cloud
+  ARM - innterface de interpretação de script JSON E BICEP
+  
+
 
