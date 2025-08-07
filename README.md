@@ -43,4 +43,10 @@ fatores de cuasto
 calculadora Azure - estimativa de valor
 TCO - calculadorea de custo total de propriedade
 
+GERENCIAMENTO DE POLITICAS "POLICY MANAGE "
+configuração de politicas
+aplicação de politica em grupo de recurso
+impacto de politica sobre o usuario
+atuação da politica fora do grupo de recurso
+
 
